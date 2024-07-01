@@ -1,8 +1,12 @@
 # Changelog
 
-## 29.3.5 (2024-07-01)
+## 29.3.6 (2024-07-01)
 
 * [bitnami/kafka] fix: Mount kafka_jaas.conf in controller statefulset for kraft migration ([#27610](https://github.com/bitnami/charts/pull/27610))
+
+## <small>29.3.5 (2024-07-01)</small>
+
+* [bitnami/kafka] Release 29.3.5 ([#27613](https://github.com/bitnami/charts/pull/27613))
 
 ## <small>29.3.4 (2024-06-18)</small>
 
